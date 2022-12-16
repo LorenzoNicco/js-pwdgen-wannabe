@@ -40,4 +40,4 @@ document.writeln(`${firstname}${secondname}${color}21`);
 document.getElementById('output').innerHTML = `${firstname}${secondname}${color}21`;
 
 //generazione output in pagina prova5
-document.getElementById('output-secondo').innerHTML = firstname+secondname+color+'21';
+document.getElementById('output-secondo').innerHTML = firstname+secondname+color+21;
